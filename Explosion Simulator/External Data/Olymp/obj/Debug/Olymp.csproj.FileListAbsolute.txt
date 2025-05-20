@@ -1,0 +1,7 @@
+D:\Unity\MyProjects\tests\External Data\Olymp\bin\Debug\Olymp.exe.config
+D:\Unity\MyProjects\tests\External Data\Olymp\bin\Debug\Olymp.exe
+D:\Unity\MyProjects\tests\External Data\Olymp\bin\Debug\Olymp.pdb
+D:\Unity\MyProjects\tests\External Data\Olymp\obj\Debug\Olymp.csproj.AssemblyReference.cache
+D:\Unity\MyProjects\tests\External Data\Olymp\obj\Debug\Olymp.csproj.CoreCompileInputs.cache
+D:\Unity\MyProjects\tests\External Data\Olymp\obj\Debug\Olymp.exe
+D:\Unity\MyProjects\tests\External Data\Olymp\obj\Debug\Olymp.pdb
